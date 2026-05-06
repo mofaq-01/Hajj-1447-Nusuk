@@ -1,4 +1,4 @@
-# تقرير العمليات التشغيلية لمشروع بطاقات نسك
+# تقرير العمليات التشغيلية لمشروع بطاقات نسك حج ١٤٤٧
 
 **Operational Report — Nusuk Cards Project**
 
@@ -55,5 +55,5 @@ start index.html       # Windows
 
 
 ## Credits
-Developed for
+Developed by Tamim Al Faiz for
 **شجميع الحقوق محفوظة — شركة رحلات ومنافع للسياحة — المدينة المنورة © 2026**
