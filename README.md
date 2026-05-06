@@ -4,8 +4,6 @@
 
 A fully self-contained, interactive HTML report for managing and visualizing Nusuk card operations. No server or backend required.
 
----
-
 ## Features
 
 - **Interactive report** with dynamic data entry fields, searchable dropdowns, and auto-calculated statistics.
@@ -27,13 +25,7 @@ A fully self-contained, interactive HTML report for managing and visualizing Nus
 3. Enable GitHub Pages in your repository settings:
    - Go to **Settings → Pages**.
    - Set **Source** to `gh-pages` branch, root `/`.
-4. Your report will be live at: `https://<your-username>.github.io/<repo-name>/`
-
-### Option 2 — Manual
-
-1. Go to **Settings → Pages** in your GitHub repository.
-2. Set **Source** to `main` branch, root `/`.
-3. GitHub Pages will serve `index.html` directly.
+4. Your report will be live at: `https://mofaq-01.github.io/Hajj-1447-Nusuk/`
 
 ---
 
@@ -61,19 +53,7 @@ start index.html       # Windows
         └── deploy.yml      # GitHub Actions auto-deploy workflow
 ```
 
----
-
-## Browser Compatibility
-
-| Browser | Support |
-|---------|---------|
-| Chrome / Edge | Full |
-| Firefox | Full |
-| Safari | Full |
-| Mobile Chrome / Safari | Full (responsive) |
-
----
 
 ## Credits
-
-Developed for **شركة رحلات ومنافع للسياحة** — Al-Madinah Al-Munawwarah © 2026
+Developed for
+**شجميع الحقوق محفوظة — شركة رحلات ومنافع للسياحة — المدينة المنورة © 2026**
