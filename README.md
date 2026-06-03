@@ -53,6 +53,8 @@ start index.html       # Windows
         └── deploy.yml      # GitHub Actions auto-deploy workflow
 ```
 
+<img width="665" height="1182" alt="2BFE1DB4-CD67-47B4-9A6F-83B61224F444_1_105_c" src="https://github.com/user-attachments/assets/37b335f6-8b69-4b1b-9d36-4f041bfe7a6f" />
+
 
 ## Credits
 Developed by Tamim Al Faiz for
